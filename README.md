@@ -1,6 +1,6 @@
 # CS470-Project
 
-This academic project is based on [Embedding Poisoning](https://github.com/lancopku/Embedding-Poisoning),
+This academic project is based on [Embedding Poisoning](https://github.com/lancopku/Embedding-Poisoning) repo,
 which is the official implementation of the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models (NAACL-HLT 2021)" 
 [[1]](#1)
 
