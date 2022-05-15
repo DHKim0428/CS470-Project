@@ -4,7 +4,7 @@ This academic project is based on [Embedding Poisoning](https://github.com/lanco
 which is the official implementation of the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models (NAACL-HLT 2021)" 
 [[1]](#1)
 
-Also implement the Korean version of the attack based on the KLUE benchmark datasets[[2]](#2), kowikitext datasets[[repo]](https://github.com/lovit/kowikitext).
+Also implement the Korean version of the attack based on the KLUE benchmark datasets [[2]](#2), kowikitext datasets [[repo]](https://github.com/lovit/kowikitext).
 
 ## Requirements
 
